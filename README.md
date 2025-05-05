@@ -1,9 +1,29 @@
-# Olá, sou Zimmer911 👋
+# Matheus Morais Zimmer
 
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos relacionados a desenvolvimento de software, análise de dados e muito mais.
+A software developer from Brazil
 
-## 🚀 Sobre Mim
-Sou apaixonado por tecnologia e programação, com experiência em **Android**, **Java**, **Python** e **Unity**. Atualmente, estou explorando o mundo da **Inteligência Artificial** e criando novos projetos!
+🔭 I’m currently working on API development
 
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/matheuszimmer)
+🌱 I’m currently learning Node.js, Java, C++, Cloud technologies
+
+💬 Ask me about Node.js, Java, Google Cloud... or anything here
+
+---
+
+### ⚒️ Languages-Frameworks-Tools ⚒️
+- **Languages**: Java, JavaScript, C++, Python
+- **Frameworks**: Node.js, Express.js
+- **Tools**: Google Cloud, Docker, Git, AWS
+
+---
+
+### 🐍 My Contributions 🐍
+
+![snake](https://github.com/joaopaulocolombo/joaopaulocolombo/blob/output/github-contribution-snake.svg)
+
+---
+
+### ⚡ GitHub Stats ⚡
+![João Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulocolombo&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulocolombo&langs_count=8&theme=radical)
